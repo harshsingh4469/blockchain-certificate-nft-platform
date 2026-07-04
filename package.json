@@ -1,7 +1,7 @@
 {
   "name": "cert-nft-platform",
   "version": "1.0.0",
-  "description": "SIH 2025 - Blockchain-based platform issuing certificates as NFTs (Secure6)",
+  "description": "Edublock - Blockchain-based platform issuing certificates as NFTs ",
   "scripts": {
     "compile": "hardhat compile",
     "test": "hardhat test",
