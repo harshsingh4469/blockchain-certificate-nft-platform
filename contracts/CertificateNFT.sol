@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/access/AccessControl.sol";
 
 /**
  * @title CertificateNFT
- * @notice SIH 2025 (Secure6) — Blockchain-based platform issuing academic
+ * @notice  — Blockchain-based platform issuing academic
  *         certificates as NFTs, with dual verification (Institute + External Body)
  *         before minting. Certificate/document contents live off-chain on
  *         IPFS; only the IPFS hash (as tokenURI) and verification state live
