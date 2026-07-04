@@ -1,0 +1,22 @@
+{
+  "name": "cert-nft-platform",
+  "version": "1.0.0",
+  "description": "SIH 2025 - Blockchain-based platform issuing certificates as NFTs (Secure6)",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.6",
+    "dotenv": "^16.4.5",
+    "ganache": "^7.9.2",
+    "solc": "^0.8.24"
+  }
+}
