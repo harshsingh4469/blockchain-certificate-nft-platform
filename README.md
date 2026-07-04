@@ -1,8 +1,8 @@
-# Secure6 — Blockchain-Based Academic Certificate NFT Platform
+# Edublock — Blockchain-Based Academic Certificate NFT Platform
 
-SIH 2025 · Problem Statement 25127 · Theme: Blockchain & Cybersecurity
 
-A working prototype matching the idea submitted in the SIH deck: certificates
+
+A working prototype matching : certificates
 are issued as NFTs only after **dual verification** (the issuing Institute +
 an external body like NPTEL/UGC/NAAC), with the certificate file itself
 stored off-chain on **IPFS** and only the hash + verification state kept
